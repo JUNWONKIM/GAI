@@ -1204,7 +1204,7 @@ Rating	Review
 0	Brothers never fully earns the right to exploit Sam's crucible in Afghanistan and the angry anguish it brings about.
 0	"Brothers itself -- a smart, well-meaning project -- never quite pulls itself together."
 1	Natalie Portman deserves an Oscar nomination. Tobey Magure in the performance of his career. This is the best movie I've seen this year.
-0	"Brothers -- an Americanized re-make of Danish director Susanne Bier's 2004 film ""Br©ªdre"" -- revolves around the Afghan War but also keeps its distance, a balancing act that winds up looking more wobbly than elegant."
+0	"Brothers -- an Americanized re-make of Danish director Susanne Bier's 2004 film ""Br  dre"" -- revolves around the Afghan War but also keeps its distance, a balancing act that winds up looking more wobbly than elegant."
 1	"Sheridan is a consistently agile storyteller, drawing strong performances from even the youngest actors."
 0	"Brothers tries to delve into how war can tear families apart, but only succeeds in showing how miscasting and melodrama obscure good intentions."
 0	"It's almost as if Sheridan and screenwriter David Benioff were constructing a pile of old bones for a museum installation, with no live connective tissue required."
