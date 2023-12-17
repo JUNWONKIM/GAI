@@ -35,7 +35,7 @@ Rating	Review
 1	Captivatingly naturalistic performances and cinematography almost makes up for the lack of a larger political framework.
 1	"It's a tribute to the visceral impact of the staging that the film retains its grip despite becoming somewhat predictable, while thematically it's the usual cycle-of-violence hand wringing."
 1	"Sin Nombre is a spry, humane account of the hardships encountered on the Mexican immigration trail, whose violence never feels exploitative, for all that it may be hard to watch. Highly recommended."
-0	"For all its formal élan and gritty location shooting, Sin Nombre is a wearily hollow, morally specious movie."
+0	"For all its formal elan and gritty location shooting, Sin Nombre is a wearily hollow, morally specious movie."
 0	"If you've ever got your hands on a second-hand set of Operation, you'll know how it feels to watch the latest addition to the slum drama stable. Most parts are present and correct, but there's definitely something missing - a heart, perhaps?"
 1	"Likely to be one of the must-see foreign language titles of the year, opening our eyes to a world of desperation, hope and pain."
 1	It's a tough watch. It's also one of the best films of the year.
@@ -221,7 +221,7 @@ Rating	Review
 1	...like a stocking stuffed by the most inventive and mischievous of gift givers.
 1	Enduringly fascinating and involving.
 1	"Has as much emotional baggage as any soap opera but not an ounce of melodrama, exploring the cuts and letting us understand the scars."
-1	"Followed by Desplechinâ(TM)s restless camera, they roam the house, which is at once a lived-in haven and a mausoleum filled with the relics of past battles and shifting alliances."
+1	"Followed by Desplechina(TM)s restless camera, they roam the house, which is at once a lived-in haven and a mausoleum filled with the relics of past battles and shifting alliances."
 1	"How do you say, 'Don't even go there, girlfriend!' in French?"
 1	"The picture is so alive with familial love and intrigue, with the richness of human complexity, that you want to reach out and hug it."
 1	"A long, improbably funny and very beautiful film."
@@ -234,7 +234,7 @@ Rating	Review
 1	"The characters' explosive emotions - tender and bitter, guilt-wracked and willfully inscrutable - make ""A Christmas Tale"" an edge-of-your-seat experience in a way most thrillers could only dream about."
 1	...plays at times like The Royal Tenenbaums without the twee affectations but nearly all the humor.
 1	[A] gloriously shaggy dog of a family soap opera.
-1	"A sprawling, complex web of family betrayals, emotionally stunted relationships, disappointments, banishments and plain old eccentric behavior are cliché by now, but in this movie it's all so frighteningly true."
+1	"A sprawling, complex web of family betrayals, emotionally stunted relationships, disappointments, banishments and plain old eccentric behavior are cliche by now, but in this movie it's all so frighteningly true."
 1	"Getting through these first 20 minutes is as necessary as plowing through the first 50 pages of a 19th century novel. Once that work is over, the movie's singular pleasures reveal themselves."
 1	"If Four Christmases is merely a stocking stuffer, this is the new car out in the driveway with the big red ribbon around it."
 1	The family's vulnerabilities and eccentricities burrow under the skin.
@@ -296,7 +296,7 @@ Rating	Review
 1	"Arnaud Desplechin's headfirst dive into the complex relationships within a middle class French family is a messy, captivating, and very much living affair."
 1	"A droll and frantic melodrama stripped of aesthetic contrivances but full of emotional ones, and it is affirming in its own way without being particularly cathartic."
 1	Controlled chaos of a family reunion highlighed by likeable but flawed characters
-0	Un conte de Noël could use more of the surreal hilarity of Wes Anderson'sThe Royal Tenenbaums.
+0	Un conte de Noel could use more of the surreal hilarity of Wes Anderson'sThe Royal Tenenbaums.
 1	"Un drama coral y familiar sobre relaciones disfuncionales, viejos rencores, odios y amores, enfermedad y muerte. Puede resultar tan desconcertante e irritante como sorprendente y humana. Lo innegable es la calidad de su elenco."
 0	Till life do us part
 1	The film (has) a sensibility that is paradoxically both old-fashioned and very modern.
@@ -321,7 +321,7 @@ Rating	Review
 1	Perfect off-season timing for a wickedly off-kilter movie about a French family Christmas in extremis.
 1	"A Christmas Tale has bountiful charm in the first leg of the film, mainly because it is able to take a lovely, dry wit to its characters' bitterness."
 0	"Un Comte de Noel is a long, rambling story of a bourgeois family going into dysfunctional overdrive during a reunion at the parental home."
-1	If you are intrigued by the interpersonal relationships and entanglements of a family - maybe a lot like yours and mine - this film is a fascinating exposé that might well prompt some seasonal self-reflection.
+1	If you are intrigued by the interpersonal relationships and entanglements of a family - maybe a lot like yours and mine - this film is a fascinating expose that might well prompt some seasonal self-reflection.
 1	"Arnaud Desplechin's mercurial, knotty and cinematically vibrant drama of family dysfunction stirred up over a Christmas gathering was my pick for best film of 2008"
 0	"Catherine Deneuve, for her part, is luminous as always. But the entire film feels cold and distant, and fatally unfocused."
 1	"Though A Christmas Tale clocks in at 152 minutes, it never feels tired or fails to compel."
@@ -476,7 +476,7 @@ Rating	Review
 0	A grubby cut-price sci-fi thriller.
 0	"Just as it's getting impossible to tell the superpowered humans without a scorecard, along comes Push to muddy the waters."
 0	"By the time the credits roll, your most fervent wish is to run into a 'wiper' (one who can erase memories)."
-0	A bargain basement melding of clichés from the X-Men franchise and TV's Heroes.
+0	A bargain basement melding of cliches from the X-Men franchise and TV's Heroes.
 0	You know a sci-fi script is in trouble when it spends the first five minutes narratively briefing you on its Byzantine plot -- and you're still not sure what's going on.
 0	"Suggestive of X-Men, The Matrix and the television show Heroes, Push is one of those time-mangling thrillers that manages to seem both complicated and superficial."
 0	"One long mistake from start to finish, this is a film that never gets its rhythms or bearing right."
@@ -916,7 +916,7 @@ Rating	Review
 1	"Mr. Norton is a pleasure to watch, and so is everyone else."
 1	"... through it all, the two performances by Edward Norton feel natural, relaxed, utterly unlike a gimmick."
 0	"Suffice to say that Blake Nelson doesn't have the visual gifts of his Minnesotan mentors, leaving us undistracted by surface flair and fully focused on his cartoonish characters and ragged, oddly callow script."
-0	Many clichés in uneven and odd mix of guffaws and philosophical analysis. . .[C]onsiderable violence surprisingly erupts...[M]ost fun is watching Norton interact with Norton.
+0	Many cliches in uneven and odd mix of guffaws and philosophical analysis. . .[C]onsiderable violence surprisingly erupts...[M]ost fun is watching Norton interact with Norton.
 1	"It's a jarringly realistic hybrid that echoes the more surreal aspects of real, rural life, and Norton walks/ambles through it all, sporting dueling personalities and distinct accents, but one very serious heart."
 1	An offbeat thriller that is deepened -- rather than derailed -- by its tricky shift from darkly funny to just plain dark.
 1	This is a very personal film from Nelson that is jam packed with ideas and heavily influenced by the Coen Brothers...
@@ -936,7 +936,7 @@ Rating	Review
 0	"Rab Ne Bana Di Jodi has some sparkling moments, featuring Surinderji Sahni. The rest is done that, seen this. Are there any new ideas left in the Yashraj [Films] chest? Now is the time to delve deep."
 1	"It's contrived and predictable, formulaic and derivative, yet The Proposal has its own charm. Star charisma is part of it, but there's an interesting dynamic between the two leads. The set up is fun, too."
 1	It is about as pleasing a star-driven comedy as one could reasonably expect to open in wide release during the dog days of summer.
-1	"It's doing the same old thing but seems to know it, and so does its best to find something new buried in those clichés."
+1	"It's doing the same old thing but seems to know it, and so does its best to find something new buried in those cliches."
 0	Humor and romance are interspersed so predictably it's as if screenwriter Pete Chairelli were working from a rom-com checklist.
 1	Director Anne Fletcher keeps the romantic comedy running with a bubbly spirit and a snappy pace.
 1	Diverting romantic antic about a sham engagement is sparked by the bright chemistry and comic timing of Sandra Bullock and Ryan Reynolds.
@@ -955,7 +955,7 @@ Rating	Review
 1	"Bullock's longtime fans should be happy to see her fully engaged in a role that suits her and paired, at last, with her comic equal: Reynolds."
 1	The chemical energy between Bullock and Reynolds is fresh and irresistible.
 0	Classic screwball comedies knew how to get antagonistic lovers to fall for each other without having to resort to bathos; one wants to send first-time screenwriter Pete Chiarelli to an all-day Howard Hawks film festival.
-0	So we've got a prodigal son who has the chance to deal with his father issues and discover things about his heretofore evil boss. It's like a romantic-comedy cliché twofer.
+0	So we've got a prodigal son who has the chance to deal with his father issues and discover things about his heretofore evil boss. It's like a romantic-comedy cliche twofer.
 0	"All the romantic comedy conventions are shamelessly on parade in The Proposal, trampling on our brains and turning them into mush."
 0	Every scene between Bullock and Reynolds only suggests how fine they might be in good circumstances.
 1	"Bullock is one of those actresses that help prove that, when done right, a romantic comedy can be a wonderfully satisfying thing."
@@ -995,7 +995,7 @@ Rating	Review
 0	"The leads are appealing, the material familiar -- it adds a Front Page romantic angle to The Devil Wears Prada, and reworks ideas from Green Card."
 0	"Somehow, someone decided this rom-com needed less rom and more com -- a fatal mistake."
 1	"The Proposal recycles a plot that was already old when Tracy and Hepburn were trying it out. You see it coming from a great distance away. As it draws closer, you don't duck out of the way, because it is so cheerfully done, you don't mind being hit by it."
-1	"A high gloss, studio Romcom with clichéd jokes and conflicts that are as uncontroversial as they are predictable, The Proposal is rooted in the most classical of conventions and still finds ways to be surprisingly enchanting."
+1	"A high gloss, studio Romcom with cliched jokes and conflicts that are as uncontroversial as they are predictable, The Proposal is rooted in the most classical of conventions and still finds ways to be surprisingly enchanting."
 1	"Despite the fact The Proposal is predictable and stuffed with recycled schtick, it's surprisingly enjoyable and completely charming. If it was a baby, you'd want to pinch its little cheek -- it's that cute."
 0	Did you ever notice that the best romantic comedies are often the cynical ones?
 0	"Regardless of the changes in setting and leading men, this is still Bullock running off the same old battery, and the fatigue is becoming increasingly difficult to cover up."
@@ -1049,7 +1049,7 @@ Rating	Review
 0	Sloppy and lazy.
 0	Believability really goes out the window here.
 0	...formula filmmaking at its coldest...
-1	Cookie-cutter characters inhabit a paper-thin plot while being helplessly propelled to a cliché climax.
+1	Cookie-cutter characters inhabit a paper-thin plot while being helplessly propelled to a cliche climax.
 0	"By its own modest aims, it's not horrible ..."
 1	"While the picture occasionally goes out of its way to make Bullock's character a ninny, the actress refuses to let the role manhandle her, and she and the ever-charming Reynolds work well together."
 0	"Once you've set your story up as a bedroom farce, resisting the form seems futile. The Proposal meanders toward a tone without arriving at one."
@@ -1084,7 +1084,7 @@ Rating	Review
 1	"A pedigree cast, fun premise and punchy dialogue make Bullock's return to romantic comedy look a great catch, and Reynolds is sharper than a diamond solitaire. Pity, then, that its penchant for sentimentality makes it miss congeniality."
 1	"The Proposal might not be ground breaking stuff, but it's a delightful and very enjoyable distraction that will lift your spirits."
 0	"As a fish-out-of-water comedy, it's so lousy that you keep wishing someone would put the poor fish out of its misery."
-1	Ignore the underlying fact that The Proposal is one big cliché of a movie and relish Bullock's ability to handle slapstick comedy as well as the smart line delivery.
+1	Ignore the underlying fact that The Proposal is one big cliche of a movie and relish Bullock's ability to handle slapstick comedy as well as the smart line delivery.
 1	
 0	"Despite good moments and likable leads, this lacks both heart and humour in a confection that smacks of the over-familiar."
 0	So keen to be cute it curdles our stomachs and so anxious to be funny it jellifies our funny bones.
@@ -1109,10 +1109,10 @@ Rating	Review
 0	"Unfortunately, this winning team is stuck in a dumb vehicle."
 0	"Bullock is totally at home in this territory, and she remains fun to watch, but I do wish she would get stronger, possibly more original comedic material."
 0	"Tailored to fit Sandra Bullock more snugly than the antique wedding gown altered for the star during the final act, the film begins to fall apart at the seams after its focus wanders from its promising screwball premise..."
-0	a morass of clichés
+0	a morass of cliches
 0	"It's not awful, certainly not memorable and - despite the words of at least one quote whore - it's not ""the year's best comedy."""
 0	annoyingly predictable and barely watchable piece of Hollywood routine
-1	"Simple and clichéd, yet refreshing. As long as you're hell-bent on seeing a romantic comedy, The Proposal will deliver."
+1	"Simple and cliched, yet refreshing. As long as you're hell-bent on seeing a romantic comedy, The Proposal will deliver."
 0	
 0	"The comedy is some good moments, and the chemistry between Sandra Bullock and Ryan Reynolds is strong, but it's too cute and predictable"
 1	A fresh twist to a proposal that starts out as all business but becomes something warmer and fuzzier before it's over.
@@ -1124,7 +1124,7 @@ Rating	Review
 1	"Despite borrowing virtually eery rom-com plot device, screenwriter Pete Chiarelli keeps the dialogue crisp and witty."
 1	...inevitably grows on the viewer...
 1	"Gigantic is best appreciated for its kooky cast chemistry. But the story like the lure of those plump orthopedic mattresses in stock, is essentially a painless snooze."
-0	"Director Matt Aselton cites Buñuel as an influence, but he fails to understand the difference between being a surrealist and being a nonsense-ist."
+0	"Director Matt Aselton cites Bunuel as an influence, but he fails to understand the difference between being a surrealist and being a nonsense-ist."
 1	There's still something compelling about watching such a talented cast navigate the choppy waters of Aselton's world.
 0	"The characters and situations are a little too quirky for their own good. Everyone is skewed off-center and, while that can be charming in small measures, Gigantic overdoses on it."
 1	Credit Dano and Deschanel for generating sufficient chemistry to make the movie worthwhile despite the oft-distracting Kabuki dances dominating the backdrop.
@@ -1521,7 +1521,7 @@ Rating	Review
 1	"As manufactured Disease of the Week weepies go, Nick Cassavetes's drama based on a Jodi Picoult bestseller, is surprisingly moving."
 1	"The decision to avoid unnecessary sentimentality defines this film, elevating it to a more thoughtful if a touch less engaging arena, sacrificing emotional escapism for conversation provoking tragedy."
 0	"What starts as an exploration of the ethics of organ-donation and genetic selection, rapidly disintegrates into a sloppy, unstructured, tear-jerking mess."
-1	"Cassavetes...shows great skill in weaving bright moments -- even an adolescent romance -- into the gloom. It's still bittersweet, but like mass-produced crème caramel, never too bitter."
+1	"Cassavetes...shows great skill in weaving bright moments -- even an adolescent romance -- into the gloom. It's still bittersweet, but like mass-produced creme caramel, never too bitter."
 0	"[Cassavetes] refuses to let the material speak for itself, putting a famous-for-making-women-cry song behind almost every scene, and lingering on every sentimental moment."
 1	Bring the tissues. This film works.
 1	"[I]ntelligent, moving and even occasionally funny, although you might want to bring along a few tissues just in case."
@@ -1814,7 +1814,7 @@ Rating	Review
 0	Astonishingly dull and carefully scrubbed of all but the most sanitized violence in the name of securing a PG-13 rating.
 0	...yet another toothless and entirely needless horror-movie remake.
 0	"There's mayhem all over the place and not a policeman, or much logic, in sight. Watchable nonsense, with performances better than the story deserves."
-0	Cliché-ridden and full of plot-holes.
+0	Cliche-ridden and full of plot-holes.
 0	"Not so much a contemporary re-make of Joseph Ruben's 1987 psychological thriller as a lobotomised bastard step-child: over-plotted, over-long, and stripped of the original's sharp, satirical subversion of suburban family values."
 1	"If the movie's attic-bound climax is a little predictable and the plot holes rather gaping, The Stepfather, unlike many of its more prestigious A-class competitors, is never less than entertaining."
 1	"It's all very silly, but effective popcorn entertainment."
@@ -1850,13 +1850,13 @@ Rating	Review
 0	Departures needed a little more work in the morgue -- like cutting to the bone.
 1	This is truly masterful and glorious filmmaking that's guaranteed a spot in my Top 10 of the year.
 0	"It's far too long, too self-conscious of its dramatic intentions, and too emotionally distant."
-1	"Like Sunshine Cleaning, this is a gentle comic tale of grisly ?�employment opportunity in desperate times. Only Departures is tender and, at times, rather squishy."
+1	"Like Sunshine Cleaning, this is a gentle comic tale of grisly ? employment opportunity in desperate times. Only Departures is tender and, at times, rather squishy."
 1	"""Departures"" is a brilliantly written and performed story that transcends its themes of ritualized catharsis to bring the audience to a fresh understanding of man's need to make peace with the deceased."
 1	"Departures is built for simplicity, and, if nothing else, the appeal to decency and integrity of this sweetly old-fashioned tale make it a must for Bernie Madoff's prison Netflix queue."
 1	"An exquisite cinematic masterpiece that is both funny and sad and all the emotions in between; it touches the heart with its treatment of beauty, music, death, and abandonment."
 1	Easily the best movie I've seen thus far this year...beautifully done.
 1	"Multiplexes are crowded with noisy summer films, from which Departures will represent a sophisticated and elegant departure."
-0	Too long by a solid 30 minutes and riddled with clichés of every creed and color
+0	Too long by a solid 30 minutes and riddled with cliches of every creed and color
 0	Here's a great way to start savoring life: Don't waste it on pat manipulations like this.
 1	"The plot involves some developments we can see coming, but they seem natural, inevitable. The music is lush and sentimental in a subdued way, the cinematography is perfectly framed and evocative, and the movie is uncommonly absorbing."
 1	"An incredibly fulfilling movie experience...In a season devoted to movies that go crash-bang-boom, this film offers quiet joy, beauty %u2013 and an amazing array of feelings."

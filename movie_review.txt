@@ -672,7 +672,7 @@ Rating	Review
 1	Provides a searing account of a gang rape through the story of two women who speak out against this violent crime
 0	
 1	
-1	"A atuação intensa e corajosa de Jodie Foster quase redime um filme que, graças à direção burocrática de Kaplan, parece ter sido realizado para a televisão."
+1	"A atuacao intensa e corajosa de Jodie Foster quase redime um filme que, gracas a direcao burocratica de Kaplan, parece ter sido realizado para a televisao."
 1	
 1	
 1	"In her first Oscar role, Jodie Foster's gang-raped waitress transforms from a good-time hard-drinking girl to a woman fighting for the self-esteem she never had."
@@ -1047,7 +1047,7 @@ Rating	Review
 1	"Fast-paced and loose, this 120-minute production concentrates mostly on fun, energy and high spirits."
 1	"In these cynical days when swashbucklers cannot be presented without an ironic subtext, this great 1938 film exists in an eternal summer of bravery and romance."
 1	it's a 65-year-old classic that still holds its rank as a movie among movies
-1	"The archetypal Hollywood swashbuckler everything big-screen derring-do should be: rousing, lighthearted, witty, romantic, colorful, moralistic, and richly satisfying [Flynn is] the quintessential Robin Hood, jaunty, dashing, and fearless."
+1	"The archetypal Hollywood swashbuckler? everything big-screen derring-do should be: rousing, lighthearted, witty, romantic, colorful, moralistic, and richly satisfying? [Flynn is] the quintessential Robin Hood, jaunty, dashing, and fearless."
 1	
 1	
 1	
@@ -1214,7 +1214,7 @@ Rating	Review
 1	"By removing the sorcery and operatic excess so synonymous with the story, the filmmakers conjure an affecting, pretty melodrama... with the emphasis more on mellow than drama."
 1	A strong visual style and a violent streak only partially undone by the PG-13 rating.
 0	"The production is grimy and listless, without any color to be seen, literal or figurative -- not even those little red dots meant to deter piracy. But then, there's not much danger of that."
-1	"Funciona principalmente graças à maneira eficaz com que retrata o amor do casal-título, que jamais deixa de soar convincente."
+1	"Funciona principalmente gracas a maneira eficaz com que retrata o amor do casal-titulo, que jamais deixa de soar convincente."
 0	"A movie in which all necessities are captured in two hours of ambitious celluloid, except for one critical anchoring piece: a heart."
 0	"one of those movies you keep in that special shelf, to watch them when you're ready to kill yourself, just to make sure you made the right decision"
 0	"Tristan & Isolde isn't the sort of film you'd go out of your way for, but you could certainly do a lot worse."
@@ -1446,7 +1446,7 @@ Rating	Review
 0	Ultra-dumb.
 0	"This is disposable cinema, to be wiped clean from the mind as soon it's over and mercifully forgotten."
 0	"Milla Jovovich may look hot in spandex and bangs, but if you want rapidly-cut, slow-motioned-for-emphasis spectacle AND story, take in some ESPN highlights or any production by NFL Films. At least you would be getting your money's worth."
-0	"... inacreditável que o diretor do eficiente Equilibrium seja o responsável por uma porcaria mal roteirizada, pavorosamente dirigida, repleta de efeitos visuais capengas e péssimas atuações como esta produção."
+0	"... inacreditavel que o diretor do eficiente Equilibrium seja o responsavel por uma porcaria mal roteirizada, pavorosamente dirigida, repleta de efeitos visuais capengas e pessimas atuacoes como esta producao."
 1	Ultraviolet is absolutely worth a look -- if not a listen or a thought.
 0	The cheesy CGI effects look like they were done on a 15-year-old Macintosh.
 0	The only redeeming feature is a production design so outrageously mad that you will genuinely have no idea what you're watching for more than half the time.
@@ -1566,7 +1566,7 @@ Rating	Review
 0	Strange and kind of meandering.
 0	"Things unfold in rote fashion, with nature-based gadgetry no more clever than those of The Flintstones."
 1	"In a year when a lot of big-screen animation felt like it came rolling off the video game assembly line, a little originality goes a long way."
-1	"Uma fábula divertida e inocente que conta com uma eficiente animação digital e traz Besson em um bom momento, o que é algo cada vez mais raro."
+1	"Uma fabula divertida e inocente que conta com uma eficiente animacao digital e traz Besson em um bom momento, o que e algo cada vez mais raro."
 0	"In a clear-cut case of arrested development, the film that crowns Luc Besson's career is a magical phantasmagoria for the kids, and a derivative mess for their parents."
 0	Is it time for director Luc Besson to become invisible too?
 0	
@@ -1837,9 +1837,9 @@ Rating	Review
 1	"Denis' film -- which may be her most intricately constructed and intensely beautiful to date -- is one that transcends words and stories, a movie to be felt rather than rationalized."
 1	"...an aesthetic mystery that requires at least two viewings to fully figure out. Luckily, the film is fun along the way."
 1	Visually ravishing and all-but-impenetrable.
-1	"An interior epic with epic exteriors, a film with very little dialogue, where the pictures (photographed by the great Agnès Godard), actors and the juxtaposition of both tell the story."
+1	"An interior epic with epic exteriors, a film with very little dialogue, where the pictures (photographed by the great Agnes Godard), actors and the juxtaposition of both tell the story."
 1	"Using very little dialogue, [Denis] focuses on casting a lingering, physically enticing spell."
-1	"This is self-consciously intricate, but even if the storyline occasionally confuses, it's impossible not to admire Agnès Godard's glorious photography and the atmospheric soundtrack."
+1	"This is self-consciously intricate, but even if the storyline occasionally confuses, it's impossible not to admire Agnes Godard's glorious photography and the atmospheric soundtrack."
 1	"... the emotions and wishes and fears of the human animal thrown large on the screen in primal, lush images."
 1	"While it may take a few viewings to sort the details out, much about L'Intrus lingers, shimmering quietly in the memory."
 1	It's one of those films where it's best to go with its maddening elegiac but elusive flow and let whatever comes to you be enough.
@@ -2291,7 +2291,7 @@ Rating	Review
 1	If only all blockbusters were this good.
 1	One sequel that surpasses the original.
 1	"Weaver is superb -- tough, smart, and the best fighter, male or female, in the movie."
-1	Un film clé en son genre.
+1	Un film cle en son genre.
 1	"Cameron's strength lies in solid storytelling in the muscular fashion that he stages the action, creating exciting thrills and intense suspense without ever descending into the mere mechanical."
 1	"The trouble Ripley has found this time is exponentially bigger and scarier than anything she encountered in Ridley Scott's memorably minimalist, eerily elegant 1979 film."
 1	"Some critics consider this chapter to be better than the first, but the two movies are vastly different: Ridley Scott's is a scary horror film, whereas James Cameron's is a high-tech actioner with superlative set-pieces."
@@ -2826,7 +2826,7 @@ Rating	Review
 1	How that dream was realized and what factors brought it and its league to a horrific crash scarcely a decade later is the intriguing drama that directors Paul Crowder and John Dower are able to reconstruct.
 0	The movie is ultimately too long and too this-no-name-player- was-traded-for-that- no-name-player detailed for casual viewers.
 1	"Once in a Lifetime would have benefited greatly from historical and outside perspective, but the story on screen is such a kick that even monotone narrator Matt Dillon gets caught up in the excitement."
-1	"It has some funny scenes and wild characters who reflect back on the glory years, where the clashes of ego were as legendary as Pelé's amazing bicycle-kick goals."
+1	"It has some funny scenes and wild characters who reflect back on the glory years, where the clashes of ego were as legendary as Pele's amazing bicycle-kick goals."
 1	"New York went bust, so did the team, yet scattered seeds for smarter soccer growth later."
 1	"Once in a Lifetime is riveting cinema for at least an hour, after which it starts to feel a bit like thumbing through a scrapbook. But American soccer fans -- and those interested in the business of sports -- will eat it up."
 1	"It's a rags-to-riches story that shows how American money and imagination revolutionized not just a team, but the entire sport of soccer, back then and still to this day."
@@ -3253,7 +3253,7 @@ Rating	Review
 1	"In the end, I don't know that Delirious has all that much to say about the fame game, but you'll laugh nonetheless."
 1	"The prickly camaraderie between Buscemi and Pitt puts Delirious back on track, abetted by a hilarious turn by Gina Gershon."
 1	"Despite some plot holes, Delirious hits the bull's-eye with razor-sharp performances and dialogue."
-0	Tom DiCillo?�s angry comedy Delirious subjects modern celebrity culture to a microscopic examination that shows the toxic virus of fame squirming under its lens.
+0	Tom DiCillo? s angry comedy Delirious subjects modern celebrity culture to a microscopic examination that shows the toxic virus of fame squirming under its lens.
 0	"The overall, overstressed tone is one of cynical whimsy meant to be incisively hard-hitting, but more often coming off as merely tiresome and abrasive."
 1	
 1	It's an achingly funny film that is also a little sad around the edges.
@@ -3597,7 +3597,7 @@ Rating	Review
 0	No mere actor could possibly escape the toxic dialogue oozing from M. Night's pen -- that's merciless.
 0	It's downright stupid.
 0	The shock value wears off quickly and writer-director Shyamalan strands us in a boring cautionary tale with an infantile eco-message about humanity needing to live in harmony with nature -- or else.
-0	"Mr. Shyamalan is plagued by a bad case of Robin Williams Syndrome, characterized by a desire to inspire and change the world through mediocre entertainment â"" in this case, accompanied by ample and frequently creative bloodshed."
+0	"Mr. Shyamalan is plagued by a bad case of Robin Williams Syndrome, characterized by a desire to inspire and change the world through mediocre entertainment a"" in this case, accompanied by ample and frequently creative bloodshed."
 0	"If this was the movie to rescue the reputation of self-styled genius Shyamalan after the disaster of Lady in the Water, then it's back to the old drawing board."
 1	Shyamalan's approach is more effective than smash-and-grab plot-mongering. His use of the landscape is disturbingly effective. The performances by Wahlberg and Deschanel bring a quiet dignity to their characters.
 0	"A comeback for the director, but not quite enough of one...an almost equal combination of genuine creepiness and absolute foolishness."
@@ -3647,12 +3647,12 @@ Rating	Review
 1	"For Night, The Happening is a little blip on his career flatline. The guy just may pull through."
 0	The true disaster on display in The Happening is Shyamalan's career hitting rock bottom.
 1	"It almost dares you to roll your eyes or laugh at certain scenes that are supposed to be deadly serious. But, you know what, I appreciated this creatively offbeat, daring sci-fi mind-trip."
-0	﻿All that's missing is the head alien of Plan 9 From Outer Space dropping by to lecture the populace for disrespecting nature: 'Your stupid minds! Stupid! Stupid!'
+0	?All that's missing is the head alien of Plan 9 From Outer Space dropping by to lecture the populace for disrespecting nature: 'Your stupid minds! Stupid! Stupid!'
 0	"'There are forces at work beyond our understanding,' says Wahlberg. 'Especially beyond my understanding, if you include virtually every force at work.'"
 0	Maybe Shyamalan didn't mean for The Happening to be exciting and dramatic: perhaps the writer-director intended the film to be an exercise in sucking all the life and emotion out of fictional characters.
 0	"A numbing polemical morality tale in dreary doomsday thriller clothing, this dull downer for all its mass panic attack high alert mode, may be more effective in unintentionally boring people to death."
 0	"...a minor, not quite successful film, but for M. Night Shyamalan - whose career has been circling the drain for some time now - it's a step back from the abyss."
-0	Só podemos deduzir que o próximo projeto de Shyamalan será melhor do que este Fim dos Tempos porque sabemos que ele (ou qualquer outro cineasta) dificilmente seria capaz de fazer algo pior.
+0	So podemos deduzir que o proximo projeto de Shyamalan sera melhor do que este Fim dos Tempos porque sabemos que ele (ou qualquer outro cineasta) dificilmente seria capaz de fazer algo pior.
 0	"Rather than [the R-rating]being an opportunity-opening device for writer/director Shyamalan to pull out of his toolbox, the graphic violence that got him that rating is more like a monkey wrench."
 0	Nothing 'happening' here
 0	"Other than its ripe possibility for mockery, I cannot think of anything that makes the film really worthwhile."
@@ -3717,45 +3717,45 @@ Rating	Review
 0	"It's impossible to avoid comparison with Shakespeare in Love, which similarly made out that many of the great man's plays were really disguised autobiography; but the earlier film had a lightness of touch and variety of tone missing from this one."
 1	"Moliere is an exceptionally likeable period comedy, powered by impeccable performances from Luchini and the wonderful Laura Morante."
 1	"Just as you should never judge a book by its cover, never judge a film by its press release. Moliere was the most touching, funny film on show this week."
-1	"It's a wonderfully witty film - très bien, in fact."
+1	"It's a wonderfully witty film - tres bien, in fact."
 1	"Both a glittering showcase for a literary giant's comic genius and a first-class farce in its own right. By turns funny, mysterious, suffering and sexy, Romain Duris again proves he's the most charismatic French actor working today."
 1	"When the French do period drama well, they tend to do it very, very well."
-1	"This is no biopic, but pure fantasy, a sort of ""Molière in Love"" infused with the bittersweet romantic spirit of the playwright's work."
+1	"This is no biopic, but pure fantasy, a sort of ""Moliere in Love"" infused with the bittersweet romantic spirit of the playwright's work."
 1	"Using a gap in the French playright's bio as a starting point, Tirad's film is a mediocre stab at a Shakespeare in Love-style serio comedy that concocts an imaginary scenario about the ambitious-but-starving young artist--Tim Grierson"
 0	"Romain Duris may be a superb actor, but a light comedian he ain't. You need a very sweet tooth for this kind of thing."
 1	"The film feels distinctly skinny, as if half the cast haven't arrived. The symmetry of the story is almost too perfect. Several leaps of faith are wildly silly."
 1	"A witty, lively period drama that expertly blends comedy and tragedy to create a worthy French counterpart to Shakespeare In Love."
 1	"Light of touch but overlong, this is saved by a sparkling performance from Romain Duris."
-1	"Filmgoers, especially those familiar with Molière's work, will have a great time."
+1	"Filmgoers, especially those familiar with Moliere's work, will have a great time."
 0	"The Shakespeare in Love song remains the same, only the lyrics have changed."
 1	A very satisfying film.
 1	"This is the sort of period movie -- that would leave a modern audience with faces of stone. Yet the film, directed by Laurent Tirard, has something. To be exact, it has Fabrice Luchini and Laura Morante..."
 1	An especially endearing attempt at the budding subgenre.
 1	"A funny, witty, bright, and well-acted costume drama about a fictional turning point in the life of the famous French playwright Moliere."
-1	"Duris, so good in The Beat that My Heart Skipped, is simply marvelous here. His Molière is a complex creature of intelligence, insecurity, sincerity, obstinacy and burgeoning brilliance."
+1	"Duris, so good in The Beat that My Heart Skipped, is simply marvelous here. His Moliere is a complex creature of intelligence, insecurity, sincerity, obstinacy and burgeoning brilliance."
 1	Laura Morante proves once again that she is one of the most intelligent and attractive actresses in the world.
 0	"Festooned with oodles of museum-worthy 17th century sets and costumes, Moliere is the sort of slightly naughty but literate frolic that congratulates the audience for its good taste; in other words, it's a bit of a snooze."
-1	"Molière is as much about the making of a patroness as it is about the gestation of artistic form, for it's she who eggs on the callow playwright to reinvent comedy as serious business with a powerful moral core."
+1	"Moliere is as much about the making of a patroness as it is about the gestation of artistic form, for it's she who eggs on the callow playwright to reinvent comedy as serious business with a powerful moral core."
 0	"What's missing, alas, is a greater sense of surprise that might keep the film from feeling somewhat rote."
 0	"A well-played but ultimately superfluous assortment of your favorite Moliere scenes strung together by a thread-thin plot that emulates, but in no way replaces, the still-sparkling originals."
 1	One of the year's best films to date.
 1	A period piece enlivened with slapstick and mischievous wit.
 0	This movie about the crucible of imagination has none of its own.
-0	"Jean-Baptiste Poquelin, better known as Molière, wrote more than 30 plays, every one of them a hundred times more witty and insightful than the movie Molière."
-1	"The actors elevate what might have been fluff into a genuinely moving tale, and the action is so much fun that it doesn't even matter if you've seen Molière's plays before."
+0	"Jean-Baptiste Poquelin, better known as Moliere, wrote more than 30 plays, every one of them a hundred times more witty and insightful than the movie Moliere."
+1	"The actors elevate what might have been fluff into a genuinely moving tale, and the action is so much fun that it doesn't even matter if you've seen Moliere's plays before."
 1	"It may not be a brilliant act of speculative history, but it's a clever and respectable one."
 1	
 1	"A sweet and silly comedy reminiscent of Shakespeare in Love, it's lushly filmed and gorgeously set and costumed."
 1	"A conventional biopic would probably elide most of this period, which was before the pioneering satirist scandalized the establishment with plays like Tartuffe, but the disarming farce Molire, to its great credit, isn't really a biopic."
-1	"Molière is a restful diversion, perhaps too restful, but still acceptable. And the actors go a long way toward bringing it off."
+1	"Moliere is a restful diversion, perhaps too restful, but still acceptable. And the actors go a long way toward bringing it off."
 1	A delightful romp with an intriguing story that could have been cut by 30 minutes and not missed a beat.
 1	Laurent Tirard gives us a delightful and witty costume piece about what might have happened in those never-accounted-for months.
-1	Tirard presents Molière like a 17th century Woody Allen - a playwright who yearns to write drama when his forte is farce.
+1	Tirard presents Moliere like a 17th century Woody Allen - a playwright who yearns to write drama when his forte is farce.
 1	A blithe but satisfying French confection.
 1	"The two lead actors are a sight to behold: Romain Duris (Moliere), with his long chin, crooked mouth, asymmetrical moustache, and bewildered eyes, plays off the thin lips and boneless cheeks of Fabrice Luchini's Jourdain."
 1	Director and co-writer Laurent Tirard's pleasant but tame approach to his birth-of-a-major-world-dramatist portrait has its virtues.
 0	"Underplays its biggest opportunities for laughs, like the film is standing at the plate but unwilling to swing the bat."
-0	"Woefully miscast as the seminal 17th-century French farceur Molière, the intense, black-maned young French movie star Romain Duris never seems more comfortable than the brief moments when he's rotting in a dank jail."
+0	"Woefully miscast as the seminal 17th-century French farceur Moliere, the intense, black-maned young French movie star Romain Duris never seems more comfortable than the brief moments when he's rotting in a dank jail."
 1	Moliere is an amusing mix of fact and fiction about the life of the brilliant 17th-century French playwright.
 0	"In making a comedy about a writer famed for his perfectly tuned wit, the filmmakers have inspired other expectations. The result is as off-putting as biting into a confection in which the sugar has been replaced by salt."
 0	Moliere hardly matches the clever mockery of its 17th century inspiration.
@@ -3764,34 +3764,34 @@ Rating	Review
 1	"It nevertheless contains enough wit and charm to keep things humming along even when the plot threatens to bog down into a Gallic version of a typical episode of ""Love American Style."""
 1	"If you've enjoyed Moliere's work, you'll enjoy the film."
 1	"Like the playwright's comedies, at its best Moliere shows the depths beneath the archetypes."
-0	"The movie leaves initially cynical Molière believing in true love after all, the rock star undone by Hallmark."
-0	"Lost in the exercise is any insight into Molière's writing or any relevance to today, making his achievements seem more frivolous -- and considerably less amusing -- than they actually were."
+0	"The movie leaves initially cynical Moliere believing in true love after all, the rock star undone by Hallmark."
+0	"Lost in the exercise is any insight into Moliere's writing or any relevance to today, making his achievements seem more frivolous -- and considerably less amusing -- than they actually were."
 1	"An extravagant and thoroughly irresistible story of intrigue, romance, comedy and artistic inspiration."
 0	"Director and cowriter Laurent Tirard are clearly under the sway of Shakespeare in Love, but the talented Duris is miscast as the wily Moliere, and Moliere has none of Shakespeare's giddy charm."
-0	"I can only wonder what theatre gods Molière angered during his lifetime to deserve such ragtag biographical treatment, but let's hope Molière settles the debt."
+0	"I can only wonder what theatre gods Moliere angered during his lifetime to deserve such ragtag biographical treatment, but let's hope Moliere settles the debt."
 1	It turns out that a deep appreciation of the human condition can be accomplished through comedy as much as through drama. At least that's what Moliere learns
-0	"The unraveling of this same world, 100 years later, was portrayed in Sofia Coppola's Marie Antoinette, next to whose gilded atmosphere the merely glossy Molière looks like a work of naturalism."
+0	"The unraveling of this same world, 100 years later, was portrayed in Sofia Coppola's Marie Antoinette, next to whose gilded atmosphere the merely glossy Moliere looks like a work of naturalism."
 0	"Certainly attractive to look at, but what goes on in front of the manicured lawns and sumptuous seventeenth-century interiors is considerably less amusing than it might be."
 1	"The cast is very good. The chemistry between Duris and Morante smolders, while Luchini makes a convincing, bungling aristocrat."
 0	It's like a breeze so slight it doesn't leave a tickle.
 0	Connoisseurs of Sun King-era costumes and decor are the most likely fans of this impeccably produced but unimaginative pseudo-biopic...
 0	"There's not a single moment that you haven't already seen in a different, better period film."
-0	"The film illuminates little about Molière himself, but what do you expect from a movie that has the depth of a kiddie pool?"
+0	"The film illuminates little about Moliere himself, but what do you expect from a movie that has the depth of a kiddie pool?"
 1	"""Moliere"" actually tells a funny, involving story that really does seem inspired by its subject, rather than just lazily cribbing from his work."
 1	"An amusing and clever film, often laugh-out-loud funny and filled with sparkling characters."
 0	"As the film picks up momentum, however, it becomes the story of an aimless young man who discovers his own brilliant wit and learns how to use it. As he gets closer to the scathing, fearless Moliere we know and love, so does the movie."
 1	For theater people and French literature buffs...a delightful game of spot-the-reference...
-1	"Un cuadro social de época vivaz y divertido, con estupendo elenco y una cuota de romance y emotividad."
+1	"Un cuadro social de epoca vivaz y divertido, con estupendo elenco y una cuota de romance y emotividad."
 1	"A sumptuous pleasure to behold, with its elegantly designed motifs, infectious energy conveying the emotional sensibility of the time, and splendid comic mischief satirizing the hypocrisy of both the bourgeoisie and aristocracy."
 0	
 1	A breezy historical romance with a strong knack for comedy.
 1	"Deluxe tribute to the playwright gets by, surprisingly, as much by romantic poignancy as farce...it's hard to dislike a picture so in Love with its subject."
 1	A sophisticated and literate biographical speculation is the basis of this witty and entertaining portrait of the titular artist.
-1	"Witty lines, sumptuous settings, manicured lawns and horses with carriages provide the setting for this frivolous romp that caresses history as it plays with the misadventures of French playwright Molière %u2026 With just the right balance of playfulness"
+1	"Witty lines, sumptuous settings, manicured lawns and horses with carriages provide the setting for this frivolous romp that caresses history as it plays with the misadventures of French playwright Moliere %u2026 With just the right balance of playfulness"
 1	
 0	
-0	Molière has no redeeming qualities.
-0	"Molière is as insubstantial as dandelion fluff, and just as apt to blow away in a strong wind."
+0	Moliere has no redeeming qualities.
+0	"Moliere is as insubstantial as dandelion fluff, and just as apt to blow away in a strong wind."
 0	"The film is a shallow study of the ~intoxicating allure of violence', with a few gratuitous tit shots thrown in for good measure."
 0	Exploitative and depressing.
 1	The violence may be too strong for some but this is worth seeing for a terrific performance by Gillian Anderson.
@@ -3845,9 +3845,9 @@ Rating	Review
 1	Russian director Alexander Sokurov brings a political edge to the intra-family dynamics with this relatively straightforward tale of a grandmother's trip to an embattled region of Russia for a visit with her grandson.
 1	"Alexandra is a much more modest undertaking, but is just as compelling. And Galina Vishnevskaya, an 81-year-old opera singer, is wonderful as Alexandra."
 1	"An arty, cerebral film, Alexandra nevertheless speaks to the heart like a symphony."
-1	"Alexander Sokurov's Alexandra feels like a communiqué from another time, another place, anywhere but here."
+1	"Alexander Sokurov's Alexandra feels like a communique from another time, another place, anywhere but here."
 1	Aleksandr Sokurov's anti-war drama Alexandra opens with a curious image and spends 90 minutes squeezing it for all it's worth.
-1	The mixture of the surreal and concrete feels remarkably accurate: a verité depiction of war with a profound ghostly quality.
+1	The mixture of the surreal and concrete feels remarkably accurate: a verite depiction of war with a profound ghostly quality.
 1	Sokurov's sentimental poetry embroiders a nation's personal connections to the military; he shows the ineffable grace that contemporary American filmmakers are too pent up to grant us -- truths about fealty that our movies neglect.
 1	"[Sokurov is one of the] very few filmmakers with the technique, style, and sheer will to create strange, instantly accessible worlds that not only draw the viewer in, but also remain in the mind as places worthy of revisiting."
 1	"There's not a shot fired in the film, but it pierces the heart nonetheless."
@@ -4362,7 +4362,7 @@ Rating	Review
 0	"Uneven drama about unhappy family, including tragedy."
 0	"One of those dysfunctional family melodramas in which a dysfunctional family gets all melodramatic, and here is what I would say to this family if I could: ""Get over it or, failing that, go away and bother someone else."""
 1	"The strength of Fireflies in the Garden undoubtedly lies in its casting, although [Dennis] Lee directs his starry cast with confidence and flair and this should lead on to bigger and better things for the young film-maker."
-0	"Dull, clichéd, and silly, this is yet another watered-down slice of horror cinema that will score big with teenage girls under the age of fifteen."
+0	"Dull, cliched, and silly, this is yet another watered-down slice of horror cinema that will score big with teenage girls under the age of fifteen."
 0	"Although star Jessica Alba is undoubtedly easy on the eyes, this remake of a Chinese neo-classic is far too easy on the nerves."
 0	"Quite faithful until the dumbed-down Americanized ending, yet time and again the treatment is inferior."
 0	You'd think that a horror story concerned with the unreliability of sight might at least try to generate scares via the use of visual trickery.
@@ -4418,7 +4418,7 @@ Rating	Review
 0	"Moreau and Palud decide to trade in the creepy, atmospheric style of the Pang Brothers for a more amped up Hollywood approach...it fails to distinguish itself either as a remake or on its own terms as a horror film."
 0	Alba's performance is rather limp...
 0	The cornea-deprived caper The Eye definitely sports a blurry vision in the meager horror B-movie sweepstakes...never sees clearly in its search for doomsday enlightenment.
-0	Um exemplo perfeito da diferença entre um filme que recicla os elementos do gênero terror de maneira criativa e outro que apenas se limita a copiá-los.
+0	Um exemplo perfeito da diferenca entre um filme que recicla os elementos do genero terror de maneira criativa e outro que apenas se limita a copia-los.
 0	Seeing is disbelieving.
 0	"t probably goes without saying that the self-involved, privileged Sydney would pay scant attention to the violence and poverty that make up life in Ana's pueblo."
 1	Transforming Asian horror into American horror isn't so bad when the filmmakers respect the source material.
@@ -4656,7 +4656,7 @@ Rating	Review
 1	Schwimmer and Pegg have scored a win--largely due to tasteful choices in the subplotting and providing such a rich ensemble to tickle the shenanigans to a higher level.
 0	"Although I did enjoy the incongruity of the characters, this well-intentioned low brow co-production does not quite make it to the finish line."
 0	"Schwimmer just doesn't have the directorial wit to elevate the intermittently amusing script, and none of the cast seems dedicated enough to raise the bar either."
-1	"Pacing and suspension of disbelief aside, I had fun with the heart-felt moments and the sheer comedy. Plus, itâ(TM)s great to see Pegg jump out of his Edgar Wright-zone for a bit and try making a movie with a different group for a change."
+1	"Pacing and suspension of disbelief aside, I had fun with the heart-felt moments and the sheer comedy. Plus, ita(TM)s great to see Pegg jump out of his Edgar Wright-zone for a bit and try making a movie with a different group for a change."
 1	"Credit Pegg for inserting his smart brand of character-driven humor everywhere the script needed him (he polished up an old script by Michael Ian Black), and credit Schwimmer for keeping things moving quickly and efficiently."
 1	An unapologetic throwback to the days when comedies didn't have to be all that original -- just as long as they were funny.
 0	"Using conventional slapstick gags and inventive crosscutting, David Schwimmer scores as a creditable, if not memorable, director...but the innocuous script is totally predictable."
@@ -4752,14 +4752,14 @@ Rating	Review
 1	"Neither original nor packed with surprises. It is, however, entertaining and thoroughly likable."
 0	"Simon Pegg gives it the old college try, but his character isn't worthy our cheers. Maybe Pegg should resurrect his most famous character, the resourceful, much funnier Shaun, and do battle with the zombies of London rather than the marathon runners of Lo"
 0	"Certainly not the worst movie of the year, not in a year that brought us Over Her Dead Body, One Missed Call, Fool's Gold, Snow Angels and Mad Money. It could be the most mediocre though."
-1	"Predictable and clichéd as Run Fatboy Run is, it is an entertaining romedy that, unfortunately, doesn't have much staying power after credits roll."
+1	"Predictable and cliched as Run Fatboy Run is, it is an entertaining romedy that, unfortunately, doesn't have much staying power after credits roll."
 1	"...a bit rude and uncouth, but sweetly affecting..."
 1	Warm/funny film about a man trying to re-win his true love by running a race
 1	"It is neither as funny nor as wickedly subversive as 'Shaun of the Dead,' but it respects its characters enough to make them thoughtful and surprisingly complex, unlike the sitcom stereotypes inhabiting lesser romantic comedies."
 0	It's a lazy effort that offers little encouragement for the future of Schwimmer's directorial career.
-1	"Run Fatboy Run n'offre rien pour révolutionner le genre, mais présente assez de bonnes intentions pour justifier son existence, et nous faire passer un bon moment"
+1	"Run Fatboy Run n'offre rien pour revolutionner le genre, mais presente assez de bonnes intentions pour justifier son existence, et nous faire passer un bon moment"
 0	"Run, Fatboy, Run winds up being as immature and exhausting as its protagonist."
-0	"Em sua estréia na direção, Schwimmer atira para todos os lados: comédia física, escatologia, estereótipos, besteirol, e por aí afora, falhando consistentemente todas as vezes. E Pegg jamais esteve tão artificial, o que é uma surpresa desagradável."
+0	"Em sua estreia na direcao, Schwimmer atira para todos os lados: comedia fisica, escatologia, estereotipos, besteirol, e por ai afora, falhando consistentemente todas as vezes. E Pegg jamais esteve tao artificial, o que e uma surpresa desagradavel."
 0	"Turn and run, no matter what size you are."
 0	"(Run, Fat Boy, Run) is your nice, fun, romantic film that is not necessarily worth spending your money to see in theatres."
 0	"[The protagonist is] a petty, unlikable loser."
@@ -4781,7 +4781,7 @@ Rating	Review
 0	"Disappointingly, Run, Fat Boy, Run is an unsatisfying hybrid not funny enough to be a true comedy, and not serious enough for a drama."
 0	"The film jogs along uncertain whether it is aiming to be an episode of Friends or a Farrelly brothers farce. Overrun with fart jokes, it is fitfully funny and hamstrung by a sentimental and implausible plot."
 0	Much of the comedy left me cold.
-1	"An enjoyable, even heartwarming little movie that embraces its clichés and never lets them get in the way"
+1	"An enjoyable, even heartwarming little movie that embraces its cliches and never lets them get in the way"
 1	"Meticulous, detailed, cohesive, comedic, charming, embraceable and entertaining. David Schwimmer has done Mom proud with this one."
 1	"Amid the laughs, the one thing Closing Escrow proves is this: It's a lot more fun watching other people trying to buy or sell a house than going through it yourself, particularly if Realtors like the ones here are involved."
 0	"There are occasionally mildly trenchant observations made about social status and racism, but overall this fixer-upper has very little curb appeal."
@@ -5039,7 +5039,7 @@ Rating	Review
 1	
 1	This movie is packed with so much glamour and carnage you won't believe it's a documentary about one man.
 1	Makes every lawyer joke you've ever heard seem eminently fair.
-1	Terror's Advocate is a history lesson in modern insurgency and terrorism paranoia without ever being lecturing at any point. The conceited Vergès is always entertaining and clearly loves his own notoriety in this engrossing film.
+1	Terror's Advocate is a history lesson in modern insurgency and terrorism paranoia without ever being lecturing at any point. The conceited Verges is always entertaining and clearly loves his own notoriety in this engrossing film.
 1	The story Schroeder unfolds is also his own-that of a generation that had its humanistic sympathies manipulated by unscrupulous people with agendas of horror.
 1	Braun and his team manage to make this knotty situation lucid and palatable. Darfur Now could conceivably make a difference in enlisting people to the cause.
 0	"While its activist subjects are indeed laudable, the film squanders much of its running time on ephemera."
@@ -5180,8 +5180,8 @@ Rating	Review
 0	
 1	
 0	"The only spiritual enlightenment I achieved was thinking ""Thank God that's over"" when the closing credits began to roll."
-0	"Completing Roadside Attractions' HOUSE was physically draining, which is something a viewer should never have to endure when in theaters. The adaptation of the novel by Frank Peretti and Ted Dekker is preachy, whiney and painfully cliché."
-0	"Unsurprisingly, House fails to supply a sufficient level of fright; the picture seems content to wallow in confusion and convention, removing the novelty of faith to roll around in tired terror clichés and dreadful direction."
+0	"Completing Roadside Attractions' HOUSE was physically draining, which is something a viewer should never have to endure when in theaters. The adaptation of the novel by Frank Peretti and Ted Dekker is preachy, whiney and painfully cliche."
+0	"Unsurprisingly, House fails to supply a sufficient level of fright; the picture seems content to wallow in confusion and convention, removing the novelty of faith to roll around in tired terror cliches and dreadful direction."
 0	Calling Extreme Makeover: HE. Your intervention is sorely needed at this disastrous would-be horror movie...from the same folks who gave you the awful Thr3e.
 0	The film doesn't achieve the horror or creep factor it could have%u2014or that the trailer seems to promise%u2014mainly because of strange stylistic choices.
 0	"Thankfully, the villains...keep things entertaining when they're on-screen, but too often take a backseat to tediously obvious flashback sequences."
@@ -5405,11 +5405,11 @@ Rating	Review
 0	You know how some movies feel like they were made by a committee? What Happens in Vegas feels like it was made by checklist.
 0	"It's called What Happens in Vegas, but it should have been called What Happens in Hollywood as it pretty much defines contrived studio comedy."
 0	"For an idea of the level of wit, several gags are built around the name 'Dick Banger'."
-0	"While Diaz and Kutcher make their clichéd characters as likable as possible, you can bet on this: Any movie named after an already-stale ad campaign isn't likely to gamble on the unexpected."
+0	"While Diaz and Kutcher make their cliched characters as likable as possible, you can bet on this: Any movie named after an already-stale ad campaign isn't likely to gamble on the unexpected."
 0	"What Happens in Vegas is about as bubbly as flat champagne. While aiming for an intoxicating blend of high-energy comedy, the romantic comedy's predictable story, and the lack of chemistry between stars Diaz and Kutcher, don't leave it withmuch of a kick."
 0	"The latest uptight chick/slacker dude romantic comedy is so formulaic, you could win big if you placed bets on what's going to happen next."
 0	"What Happens in Vegas feels oddly stilted yet desperate, as though its principals felt the need to overcompensate for the too-neat symmetry of opening scenes with over-the-top violence and bright orange tans."
-0	"A PG-13 sitcom rom-com that desperately wants to be a Judd Apatow movie when it grows up, Tom Vaughan's flat film mixes screwball comedy with self-help clichés to tired effect."
+0	"A PG-13 sitcom rom-com that desperately wants to be a Judd Apatow movie when it grows up, Tom Vaughan's flat film mixes screwball comedy with self-help cliches to tired effect."
 0	It's a testament to how good casting can help a film and bad writing can hurt it even more.
 0	"None of this is anything we haven't seen countless times before in rom-com land, of course, and it would be giving the filmmakers way too much credit to say they have entertainingly tweaked a winning but cob-webbed formula."
 1	"The outcome of What Happens In Vegas is obvious, but the journey there is fun."
@@ -5624,7 +5624,7 @@ Rating	Review
 1	Appaloosa is ideally suited for fans of the genre for whom quiet drama speaks as loud as big guns.
 1	A terrific bread-and-butter Western.
 1	A western bromance.
-0	"Uma produção correta e que prende a atenção especialmente graças à dinâmica entre Harris e Mortensen, mas que, no fim das contas, não exibe nada que a torne diferente do convencional."
+0	"Uma producao correta e que prende a atencao especialmente gracas a dinamica entre Harris e Mortensen, mas que, no fim das contas, nao exibe nada que a torne diferente do convencional."
 1	"...provides enough variety to keep the heart, mind, and adrenaline on alert."
 1	"Nothing new or groundbreaking here, just a lot of talented people coming together for a well-made and entertaining Western."
 1	"I give thanks for westerns. Every time they seem to be about to gasp their last, dusty breath, one comes along to give them a bit of renewed life. Bless it, the western genre will not die. Last year it was the excellent remake 3:10 to Yuma. This ye"
@@ -5790,7 +5790,7 @@ Rating	Review
 1	As close to a perfect movie as we're likely to see this year.
 1	"The Visitor may not have any big names in its cast, but it certainly makes up for that by having a lot of character."
 1	"Jenkins, a veteran character actor perhaps best known as the dead father on Six Feet Under, gets the role of a career here..."
-1	"It's almost funny how often and how closely The Visitor teeters toward cliché, only to deliver one gently genuine moment after another."
+1	"It's almost funny how often and how closely The Visitor teeters toward cliche, only to deliver one gently genuine moment after another."
 1	The Visitor might unite both sides of the illegal immigration debate - at least for two hours.
 1	"Sophisticated, timely and compelling, it's a quintessential post-9/11 drama."
 0	... I almost want to regurgitate that shawarma I once ate.
@@ -5825,7 +5825,7 @@ Rating	Review
 1	An interesting examination of the unusual relationship between a bored college professor and an illegal immigrant. There are some thought-provoking discussions in the film patched periodically with rough spots.
 0	Our patience with the characters' apathy and uninteresting demeanor is not rewarded enough.
 1	click for full review
-1	"Un retrato sutil y sensible sobre la inesperada conexión que se produce entre cuatro personas de diferentes culturas y orígenes, y también una postal algo desencantada y agridulce de la Nueva York posterior al 11/9. Destacable actuación protagónica de Ric"
+1	"Un retrato sutil y sensible sobre la inesperada conexion que se produce entre cuatro personas de diferentes culturas y origenes, y tambien una postal algo desencantada y agridulce de la Nueva York posterior al 11/9. Destacable actuacion protagonica de Ric"
 0	
 1	The Visitor gives Richard Jenkins a chance to develop a character for the whole running time.
 0	
@@ -5839,7 +5839,7 @@ Rating	Review
 0	"When all is said and done, Bill is let down by Bill."
 1	...basically entertaining yet entirely forgettable.
 0	"Clunky and smug, Meet Bill isn't convincing for one moment."
-0	"Even a hilarious turn by Kristen Wiig as the owner of a doughnut company can't save this clichéd, meandering story from playing like American Beauty lite."
+0	"Even a hilarious turn by Kristen Wiig as the owner of a doughnut company can't save this cliched, meandering story from playing like American Beauty lite."
 0	"Takes scattershot aim at all manner of appropriate targets-the vapid nature of local television news, the perceived stigma of standing out from the pack in America, the dilemma of dreams deferred and abandoned-but rarely hits the comic bull's-eye."
 0	"Male midlife crisis presents as pathological self-loathing in Meet Bill, an imperative to which the only sane response is: No thanks."
 0	This movie never should have seen the light of day.
@@ -5864,7 +5864,7 @@ Rating	Review
 0	"Doesn't have much to say about marriage other than that it's complex, and often fraught with disappointment, deception and conflicting urges."
 1	delves into the subtext of conventional American society before progressive politics and the counterculture changed everything.
 0	"...a small, low-key drama that's agreeable enough and ultimately elevated by the uniformly superb performances."
-0	"When the characters in Married Life cry out for help, the entire mise-en-scène stifles them with irony."
+0	"When the characters in Married Life cry out for help, the entire mise-en-scene stifles them with irony."
 1	"A genre-bender that has elements of Douglas Sirk, Oscar Wilde, Alfred Hitchcock and Joseph Kesselring."
 1	Cooper gives another indelible performance as a suffering innocent with devilish intent.
 1	"This contemplative examination of marriage, social mores, and personal ethics doesn't hold together, but individual pieces are absorbing enough to make up for the many uninspired moments, resulting in a mediocre, passable work."
@@ -5882,7 +5882,7 @@ Rating	Review
 0	Maybe there's nothing more to say and American cinema has finally exhausted its ragging on the most maligned decade of the 20th century.
 0	"Stuck somewhere between a dark comedy and a thriller, director Ira Sachs' Married Life doesn't really work as either, leaving its strong cast adrift."
 0	One of those little movies that really only exists on the radar because big names were in it.
-1	A playful riff on film noir that starts by upending every '40s movie cliché.
+1	A playful riff on film noir that starts by upending every '40s movie cliche.
 1	"Married Life, a period comedy of manners merged with a suspenseful psychological thriller, aspires to be a hybrid of the sort that Alfred Hitchcock polished to perfection."
 0	"It's an imitation of life, all right, but without much to say about it."
 0	"Rather than real emotion, the movie stops at irony...It's an entertaining approach, all right, but it does the material no real service."
@@ -5999,7 +5999,7 @@ Rating	Review
 1	"A wonderfully compelling mess of a movie. It's tricky trying to bond Hitchcockian flair with lecture hall semantics, but the director works his tricks with ace visual consideration."
 0	"So bad it's good, then? Alas, the whole thing is uncomfortable and boring, scotching any ironic enjoyment of its awfulness."
 0	"The Scooby Doo ending requires nearly ten minutes of explanation and negates the need to follow the previous 90 minutes. It's also preceded by one character stating, ""In life, nobody bothers explaining anything."" Well, except in this movie."
-0	"A math- and symbology-tinged thriller adapted by director Álex de la Iglesia, and pitched at a breakneck, didactic clip, absent any sensible, modulated emotional investment in the characters or material."
+0	"A math- and symbology-tinged thriller adapted by director Alex de la Iglesia, and pitched at a breakneck, didactic clip, absent any sensible, modulated emotional investment in the characters or material."
 0	A poorly formulated story that's nearly impossible to understand and accept.
 0	"Hurt sells the silliness almost convincingly, but even from such a skillful pitchman it comes out sounding, finally, like junk."
 0	This purported whodunit thriller never solves its main mystery: How and why did this film get made in the first place?
@@ -6049,7 +6049,7 @@ Rating	Review
 0	"Life is too short for long-term exposure to relentless agony and distress, even in the guise of entertainment."
 0	"Wow, can that Diane Lane work a wireless mouse. And she typed that Control ALT Delete with such authority! Oh, my -- what was that? -- she minimized a window and activated a program with a hot key!"
 0	"When Lane isn't preaching about the heinous violence, she's babbling on in tech speak. It's like having a Dell rep describe the plot of Saw."
-0	A blatantly derivative serial killer thriller that proceeds to tick off every single cliché of the genre ... has nothing to offer beyond what we've already seen before.
+0	A blatantly derivative serial killer thriller that proceeds to tick off every single cliche of the genre ... has nothing to offer beyond what we've already seen before.
 1	"Untraceable may not rank as one of the best serial-killer thrillers of all time, but it packs enough punch to hold your attention way past the whodunit point."
 0	"...the picture is grimly unpleasant, and the formulaic conclusion subverts whatever earnest intentions were present at the beginning."
 0	"Morally duplicitous torture porn: how else to describe Untraceable, a bleak, rain-washed horror thriller."
@@ -6136,7 +6136,7 @@ Rating	Review
 1	"...a generic, garden-variety thriller that's almost entirely lacking in genuine thrills or surprises..."
 0	Untraceable will have steam for a little while and then it is just going to die down and become the $5.99 movie at Walmart.
 0	Bah! What a lame-o thriller.
-0	"Previsível e desinteressante, tenta contornar a trama clichê com cenas que investem na violência gráfica, mas sem sucesso."
+0	"Previsivel e desinteressante, tenta contornar a trama cliche com cenas que investem na violencia grafica, mas sem sucesso."
 1	"If you aren't a fan of scary thrillers, you're going to want to give this one a wide berth. But if you're aching for your next dose of suspense drama adrenaline, Untraceable may just do the trick."
 0	Neither terrifying nor inspiring.
 0	"While certainly compelling in terms of drawing you into the story, Untraceable has a number of nagging narrative flaws."
@@ -6621,7 +6621,7 @@ Rating	Review
 0	Director Brad Silberling can't seem to decide whether he's making fun of the show's cheesy visuals or seizing on its sense of roughhewn adventure.
 0	"McBride and Ferrell, who seems content to spin his wheels in vehicles that indulge his passion for stripping and dumbing down, are gifted performers. Here, they are given little to work with, and deliver accordingly."
 0	"Modernizing a 1970s children's TV show known for its cheap special effects offered certain possibilities, but the filmmakers have traded in any kid-friendly elements for bathroom humor of dinosaur-sized proportions."
-0	"Land of the Lost has stray amusing ?�tidbits, but overall it leaves you feeling splattered."
+0	"Land of the Lost has stray amusing ? tidbits, but overall it leaves you feeling splattered."
 0	"Many of the bits are far too adult for children, yet no adult with a brain bigger than a walnut -- inside joke the filmmakers evidently thought was hilarious -- would find the story the least bit compelling."
 0	"Stupid on an epic scale or epic on a stupid one, Land of the Lost is as close as Will Ferrell comes these days to a 'kid friendly' movie."
 1	Land of the Lost sheds its TV-formula origins as a 1970s network series and becomes glib fun.
@@ -6772,7 +6772,7 @@ Rating	Review
 1	Find your juvenile inner self and you might just enjoy Land Of The Lost.
 0	"Will Ferrell capers earnestly through a Journey to the Center of the Earth-style comic romp witless of script, wan of invention and pasty of imagery."
 0	"It's a kind of cut-price Jurassic Park, with a support cast of gabbling monkeys and lizardish humanoids, and if they don't seem far-fetched you might believe Anna Friel as a Cambridge- educated scientist."
-0	"This big-budget revamp of the Seventies TV series flounders around with little consistency of tone, courting kids with roaring dinosaurs and visual gags, then winking at adults with near?�the?�knuckle asides."
+0	"This big-budget revamp of the Seventies TV series flounders around with little consistency of tone, courting kids with roaring dinosaurs and visual gags, then winking at adults with near? the? knuckle asides."
 0	"A good-natured, hit-and-miss mess, further muddied by some seriously inappropriate humour."
 1	"The insane comedy/action hybrid emerges as a nutty, funny, unashamedly weird action comedy hybrid that is more consistently laugh-grabbing than many of its contemporaries doing far better business at the box office."
 0	"Land of the Lost has decent special effects but ultimately fails thanks to a poorly written script, a general lack of imagination, a series of painfully unfunny gags."
@@ -6780,7 +6780,7 @@ Rating	Review
 0	"A jumbled, incoherent mess of ad-libbed indulgences."
 0	"In a summer of terrible blockbusters, Land of the Lost's ability to distinguish itself as the worst of the bunch (so far) is almost commendable, given that its awfulness appears to have been achieved so effortlessly."
 0	There's a docu-drama to be made about movies like this. About how no-one had the courage to tell the star: This ain't funny!
-0	"By and large, it's knockabout kids' stuff (and has been advertised on that basis), but it has some quite risqué smut."
+0	"By and large, it's knockabout kids' stuff (and has been advertised on that basis), but it has some quite risque smut."
 1	"There are genuine thrills, gross-out moments, zingy lines and a Will Ferrell in solid form. No one asked for this movie, but now that it's here, we should be pleased."
 0	"An odd film, which will hardly be enough to turn it into the massive hit that it needs to be."
 0	Will Ferrell's and Danny McBride's natural charisma isn't sufficient to save Land of the Lost
@@ -6822,10 +6822,10 @@ Rating	Review
 1	[REC] is ridiculously good. It's a show-stopping terror trip through something that really shouldn't work all that well.
 1	A well-made funhouse ride of pure terror and near-breathless dread.
 1	"This Spanish horror thriller is based on a great idea that takes a new bite at the zombie genre, combined with a different way of telling the story,"" says Andrew"
-1	"Impressiona pelo ritmo, pelas atuações, pela intensidade e pela excepcional edição de som, revelando-se sempre tenso e, nos melhores momentos, absolutamente assustador."
+1	"Impressiona pelo ritmo, pelas atuacoes, pela intensidade e pela excepcional edicao de som, revelando-se sempre tenso e, nos melhores momentos, absolutamente assustador."
 1	"This short, stripped-down, first-person horror picture delivers some brutally effective shocks and gradually conjures a haunting atmosphere of ever-escalating panic and despair."
 1	Not since John Carpenter's one-shot intro to Halloween has POV horror been this good.
-1	"Directors Jaume Balagueró and Paco Plaza, rising stars in the Spanish horror scene, create a buzzing urgency in a familiar premise..."
+1	"Directors Jaume Balaguero and Paco Plaza, rising stars in the Spanish horror scene, create a buzzing urgency in a familiar premise..."
 1	"Superbly acted, brilliantly directed and absolutely bloody terrifying, this is one of the best films of the year."
 1	Quick and to the point when it comes to delivering scares.
 0	"The Spanish horror movie Rec promises, in the first act at least, to be a profoundly disturbing experience."
@@ -6839,7 +6839,7 @@ Rating	Review
 1	"With its quick pacing, brutal jump scares, and unpredictable ending, REC does an admirable job of modernizing the shambling ghouls introduced in George A. Romero's Living Dead series."
 1	"Lots of films get called ""a rollercoaster ride"" these days, but this is the first time I've really felt like I was in a carnival for most of the movie."
 1	"Don't come looking for subtlety or subtext - this offers wall-to-wall thrills and intensity, period."
-1	"Co-directors Jaume Balagueró and Paco Plaza unfold their story over a tight, tense 75 minutes, using the hand-held camera to create an atmosphere of immediacy, and never wasting an opportunity to ramp up the sense of panic, or provide a brutal scare."
+1	"Co-directors Jaume Balaguero and Paco Plaza unfold their story over a tight, tense 75 minutes, using the hand-held camera to create an atmosphere of immediacy, and never wasting an opportunity to ramp up the sense of panic, or provide a brutal scare."
 1	A seamless mixture of riotous humor and socio-political commentary.
 1	Unexpectedly amusing and inevitably disturbing.
 1	It seems somehow entirely appropriate that the city of Las Vegas would be the place where writer-director Rifkin's film would earn its first Grand Jury Award.
@@ -7126,7 +7126,7 @@ Rating	Review
 1	"21 is built around some standard-issue plot mechanics, but it's still a clever and novel card-sharp thriller."
 0	Numerous inane plot twists and a convenient villain whose behavior defies logic or meaning.
 0	"The new blackjack dramedy 21 stands when it should hit, never doubles down and wimps out to the point that it turns a pretty compelling tale into a bust."
-0	If only it all held together better and didn't feel so obvious and cliché.
+0	If only it all held together better and didn't feel so obvious and cliche.
 0	...an oddly unsatisfying shaggy dog story.
 1	"has a flashy, exciting vibe early on to make the audience feel like they are in the middle of that blackjack table and casino (I almost went All In with my popcorn and peanut M&M's)"
 0	You have a director so inept that he doesn't even understand what genre he's working within and he's helped destroy potentially one of the most riveting and important social statements about Las Vegas the movies could have seen.
@@ -7217,7 +7217,7 @@ Rating	Review
 0	"It's a gamble whether or not ""21"" will provide enough excitement to make you shout, ""Winner, winner, chicken dinner."""
 1	"Across the Universe star Jim Sturgess reaffirms himself as a sympathetic, highly likable screen presence."
 0	A film that makes Rounders seem like a work of great seriousness and import.
-0	"A lot of attractive people standing in for real-life nerds, and a plot that knows all the clichés and isn't afraid to use them."
+0	"A lot of attractive people standing in for real-life nerds, and a plot that knows all the cliches and isn't afraid to use them."
 0	"For most of its length, 21 seems like a cautionary tale ... at least, until the whole point is negated by a tacked-on happy ending."
 1	"Fun and nothing else, but enough so that it's worth the while."
 0	"This is a really stupid movie about such smart people... When they make references to Ferris Bueller and Swingers, it just feels desperate."
@@ -7241,7 +7241,7 @@ Rating	Review
 1	"Unfortunately, ""21"" doesn't give away any of the secrets of counting cards that the average person could use to get revenge against the casinos."
 1	"The vast majority of 21 is pure fun; I would've loved to give it an unqualified rave, so its flaws are especially annoying."
 1	"... the film is such a love letter to 'Risky Business,' it almost qualifies as a pseudo remake."
-0	A cliché-ridden ride through the world of blackjack.
+0	A cliche-ridden ride through the world of blackjack.
 1	"A breezy, fast-moving romp that trades well on its appeal as a glitzy caper movie about high-end scam artists without losing sight of its simmering greed-is-not-so-good theme."
 1	"While this is eager-to-please Hollywood-by-numbers fare, 21 should provoke enough interest to make you pick up a copy of the book that the film cheats to get the real deal."
 1	"The movie introduces a world and sells it extremely well. It does a good job of explaining the rules of the card-counting scam, and the actual blackjack scenes are quite exciting"
@@ -7264,7 +7264,7 @@ Rating	Review
 1	
 0	"This is a prime example of a movie that isn't bad, per se, just unnecessary, a competently made but wholly unremarkable trifle."
 1	See this for the sheer fascination of it.
-1	"Regardless whether there are a number of clichés and plot incongruities, this entertaining and fast-paced flick will find an audience hoping to learn how to beat the dealer."
+1	"Regardless whether there are a number of cliches and plot incongruities, this entertaining and fast-paced flick will find an audience hoping to learn how to beat the dealer."
 1	
 0	"When the movie 21 was announced with Kevin Spacey and Laurence Fishburne, it sounded like a winner. When everybody else involved in 21 was mentioned, it was doomed to be a loser."
 0	One can't help but think there was a smarter film to be made from this premise.
@@ -7274,7 +7274,7 @@ Rating	Review
 0	Craps out leaving you wondering how it all went so wrong.
 0	"Despite being ""based on a true story,"" the script is a loaded deck that plays like a pack of lies. 21 just doesn't add up."
 0	Can't decide whether it's high stakes or high school.
-0	"A scenario utterly Hollywoodised to death, with barely a movie cliché left untapped by the director and screenwriters."
+0	"A scenario utterly Hollywoodised to death, with barely a movie cliche left untapped by the director and screenwriters."
 1	Full of flash and style that makes it one of the more entertaining Vegas films in recent memory.
 0	"Kate Bosworth, who's made three films with Spacey now, seems to fare the worst here."
 1	
@@ -7294,7 +7294,7 @@ Rating	Review
 1	
 0	"Jacques Rivette, one of France's most original filmmakers, stumbles with his latest film from a novella by Honore de Balzac, a period drama set in mid-19th-century France and Italy that is stopped dead by the one-note performance of Guillaume Depardieu."
 0	"Scenes move ahead in a plodding manner. Since the film's hero is supposed to be a man without charisma, he cannot rivet an audience."
-1	"Demonstrando uma quase reverência às origens de seu projeto, Rivette cria um roteiro que retém a natureza literária da narrativa."
+1	"Demonstrando uma quase reverencia as origens de seu projeto, Rivette cria um roteiro que retem a natureza literaria da narrativa."
 0	Rivette's handling of this talky tale is static in the extreme.
 1	"See it for the respectfully literal Balzac screen transcription. After all, I may have been wrong about Mr. Rivette all these years, and it would not be the first time."
 0	"Well acted and aesthetically attractive, the film remains by and large inert."
@@ -7397,7 +7397,7 @@ Rating	Review
 0	"Collaborating with a director who doesn't give a damn, DiCaprio and Crowe have made a political action flick totally without emotional impact."
 1	"What distinguishes the book with gripping realism may not be so apparent in the cinematic context. Still, for spy calculus, action, and character realization, I assign you to see it."
 1	"If you're looking for a high-tech, old-fashioned racist B-western, you've come to the right place, pilgrim."
-0	"Working from a screenplay by William Monahan, Scott takes rusty '80s clichés from the days when we were playing nuclear chicken with Russia and retrofits them to the post-9/11 world. He exposes how weary those old spy tropes really are."
+0	"Working from a screenplay by William Monahan, Scott takes rusty '80s cliches from the days when we were playing nuclear chicken with Russia and retrofits them to the post-9/11 world. He exposes how weary those old spy tropes really are."
 0	"It's a wonder that Body of Lies squanders all of those ingredients in a dry, convoluted mess."
 1	"For the most part, this is a pretty solid thriller that combines Government mumble jumble with some pretty exciting action sequences."
 1	Violent spy thriller more about style than story.
@@ -7566,8 +7566,8 @@ Rating	Review
 1	Body of Lies can't quite make up its mind whether to be an all-out thriller or a savvy political drama with something relevant to say about Muslim fundamentalism and the American response to it.
 1	"While this film's themes seem to address issues of terrorism and CIA meddling, and the powerful cast suggests we're in Important Movie territory, the result is essentially just a routine spy thriller: entertaining but forgettable."
 1	"Better than the vast majority of the post-9/11 terrorist yarns, Body of Lies is both more ambiguous and ambitious than such heavy-handed duds as Rendition and Redacted."
-1	"Como diversão, Rede de Mentiras merece aplausos. Isto não impedirá, claro, que ele seja relegado ao esquecimento completo dentro de poucos anos."
-1	"Básicamente un buen film de entretenimiento sobre un tema ""serio"" como el combate al terrorismo, armado de manera eficaz aunque superficial."
+1	"Como diversao, Rede de Mentiras merece aplausos. Isto nao impedira, claro, que ele seja relegado ao esquecimento completo dentro de poucos anos."
+1	"Basicamente un buen film de entretenimiento sobre un tema ""serio"" como el combate al terrorismo, armado de manera eficaz aunque superficial."
 0	"When Russell Crowe gives a lackluster performance, you know how meager a year it's been at the movies. In Body of Lies, Crowe is bogged down in a thankless role in a thankless movie."
 1	"If you're going to have a mall-ready entertainment about the war on terror, you might as well have this one. [Blu-ray]"
 1	...better than a lot of the post 9/11 espionage films that Hollywood has made.
@@ -7969,12 +7969,12 @@ Rating	Review
 1	The gifted team behind Half Neslon has now made another compelling and honest film that's emotionally effective as a sports saga as well as immigrant and culture-collision tale.
 1	Fictionalized tale of a Dominican baseball player trying to make it in the States is also a wonderfully observant film about acculturation and the immigrant experience.
 1	"A more bitter than sweet tale told with uncommon sensitivity and uncanny scrutiny of race and class, about exploited immigrant ball players in a game that has evolved into ruthless baseball capitalism."
-1	"An immigrant's saga more than ""a baseball movie,"" Sugar ultimately runs headlong away from the clichés that mar formula sports-related narrative films."
+1	"An immigrant's saga more than ""a baseball movie,"" Sugar ultimately runs headlong away from the cliches that mar formula sports-related narrative films."
 1	"As inspirational as it is heartbreaking, a moving story about pursuing one's dreams and how one can still find a life for oneself even if those dreams don't come to fruition."
 1	"The filmmakers' confidently modest helming ... allows events to feel, if not fresh, then at least real."
 0	Such indie banality -- linked to liberal message-mongering -- proves Fleck-Boden go into a slump long before rookie Miguel.
 1	"This is a sports drama of total originality, as well as the most authentic inside view of the immigrant experience the movies have given us in quite a while."
-1	"Anna Boden and Ryan Fleck have transformed some of the saggiest, most clichéd genres with smarts, non-screechy politics, superb acting, and visual beauty."
+1	"Anna Boden and Ryan Fleck have transformed some of the saggiest, most cliched genres with smarts, non-screechy politics, superb acting, and visual beauty."
 1	A combination sports story and immigrant account that reveals the wisdom of downsizing our dreams and making choices that affirm our deep-seated need for community.
 1	"It's a beautifully made film about a young man's journey of self-discovery, about how Miguel ""Sugar"" Santos makes his way in the world and tries to figure out, as we all do, who he is meant to be."
 1	"It is both sad and hopeful, but the film's sorrow and its optimism arise from its rarest and most thrilling quality, which is its deep and humane honesty."
@@ -8040,7 +8040,7 @@ Rating	Review
 1	What's this? An inspirational sports flick whose every step doesn't lead up to the climactic Big Game in which the underdog hero must score that touchdown/hit that home run/kick that goal/deck that opponent?
 1	Sugar is a slow-burning exploration of the immigrant experience that grows more compelling as Miguel starts to realise he might not be good enough to realise his dream.
 1	"In 'Sugar', the pair skilfully dismantle the timeworn themes, characters and story patterns of the conventional sports movie and then reassemble them as a rich, socially astute realist drama."
-1	"As a sports movie the film perhaps lacks the pace and punch to capture the genre's traditional audience. But Sugar is much more than a sports movie. It is a picture of integrity, intelligence and empathy that studiously avoids cliché."
+1	"As a sports movie the film perhaps lacks the pace and punch to capture the genre's traditional audience. But Sugar is much more than a sports movie. It is a picture of integrity, intelligence and empathy that studiously avoids cliche."
 1	"Sugar is a revelation, not least in the way it ducks an onrush of cliche to expose the whole rags-to-riches mantra as a bright and shining lie."
 1	"Sugar, winningly played by the complete newcomer Soto, isn't a cut-out ingenu but a testy, competitive, driven but fallible person. The road he follows is modest, but the film is beautiful and searching in letting him find it for himself."
 1	"Poignant and beautifully written, directed and performed, Sugar confirms Boden and Fleck as eloquent chroniclers of the underbelly of the American dream."
@@ -8070,7 +8070,7 @@ Rating	Review
 1	"Steroids enter the equation, but ""Sugar's"" narrative turns feel more generous than obvious - emphasizing baseball's calming, community ideas over its cult of personality. The gravity of Miguel's plight stays with you, but so does his eventual peace."
 1	"A portrait of an immigrant, a sports movie commentating on the machinations of American sport and a coming-of-age drama: Sugar is not short of subject matter."
 1	We begin to get the feeling that the United States of Baseball is somehow grander and more generous than the United States of America.
-1	"Follows its own path, defying stereotypes and avoiding just about every sports-movie cliché and fish-out-of-water convention, all the way to the end."
+1	"Follows its own path, defying stereotypes and avoiding just about every sports-movie cliche and fish-out-of-water convention, all the way to the end."
 1	"You get the perfectly calibrated story of one young man's travels, not just to the United States from his tiny island country but to the land of expectations that come with adulthood."
 1	"I've watched thousands of baseball games and seen tons of baseball movies, but Sugar opened new doors of understanding and insight."
 1	"Anna Boden and Ryan Fleck, the makers of Half Nelson, return with another subtly observed drama about a character on the outskirts of mainstream America."
@@ -8093,7 +8093,7 @@ Rating	Review
 1	"Sugar is worth seeing not because it invalidates baseball's meritocracy, or because it makes us feel guilty for enjoying the national pastime, but because it shows us with empathy and insight how baseball players are more than what they do on the field."
 1	"Sugar is one smart, beautiful movie, and from where I stand, it is an instant classic with the guts and integrity to remain focused on a winning story about a flowering American-immigrant soul."
 1	"By refusing to ""win one for the Gipper"" or any of the other boring sporty standards, the directors have a lot to be proud of. By being a little bit bolder, however, they really could have hit it out of the park."
-1	"Writer-directors Anna Boden and Ryan Fleck could have created a cliché-ridden film...But the pair (who also made the teacher drama Half Nelson), are more concerned with humanism than proving that dreams do come true."
+1	"Writer-directors Anna Boden and Ryan Fleck could have created a cliche-ridden film...But the pair (who also made the teacher drama Half Nelson), are more concerned with humanism than proving that dreams do come true."
 1	"A hopeful story, a heartwarming story, an entertaining story..."
 1	"An exceedingly odd meeting of the minds (and bodies) occurs in Quid Pro Quo, a strikingly original and provocative first feature from scribe-helmer Carlos Brooks."
 1	"Has some pretty insightful things to say about the nature of being ""disabled,"" and it says them with a good deal of humor, style, and understanding."
@@ -8365,7 +8365,7 @@ Rating	Review
 0	The dull gray monotony of existence never looked as uninviting as it does in this film.
 0	"It's just a slow wander through wreckage, waiting for bad stuff to get worse."
 1	"In a post-Apocalypse world in which you can't tell the difference between good guys and bad guys, it's better to trust no one, and Man will do anything to protect Boy."
-1	"Um filme difícil e angustiante. (...) Mas, talvez mais surpreendente, representa uma experiência profundamente tocante."
+1	"Um filme dificil e angustiante. (...) Mas, talvez mais surpreendente, representa uma experiencia profundamente tocante."
 1	Shames most films with the audacity to consider themselves tearjerkers.
 0	"While identifying with characters in a bad situation is a movie must, drowning in their deep funk as much as they do, is a narrative no-no."
 0	"""The images are searing, but there's little for Hillcoat to bat around besides endless agony. The Road is glacial and precise, but rarely offers the viewer something to chew on besides utter finality."""
@@ -8373,7 +8373,7 @@ Rating	Review
 1	...only half as traumatic as the Cormac McCarthy novel on which it's based - which of course means that it will still leave you a wreck.
 1	"Without watering down Cormac McCarthy's hangman prose, John Hillcoat's adaptation transcended sad, gray apocalypse tropes to become an unexpectedly uplifting parable about faith, kindness and family at world's end."
 1	This is a tough road to follow
-1	"Una película agobiante, notablemente realizada y narrada. Tan dura y desoladora como el futuro posible que describe."
+1	"Una pelicula agobiante, notablemente realizada y narrada. Tan dura y desoladora como el futuro posible que describe."
 1	"Hillcoat does his best, and for the most part, he succeeds. The horrifically desolate landscape and the drab greys and cobalt blues of the scarred sky pervade every shot."
 0	Unpleasant post-apocalyptic drama.
 1	"The Road is a highly emotional, involving, palm-sweatingly tense movie that will scar you for life if you let it. Exhausting to watch but oddly exhilirating to experience, it's a film you'll watch once but will never forget."
@@ -8742,7 +8742,7 @@ Rating	Review
 0	"As much as I enjoy current actresses like Ms. Bening and Ms. Ryan even in a lost cause, I cannot recommend the latest reenactment of The Women as anything special."
 0	"Thankfully, the last 20 minutes of the movie are not a total waste, but I doubt many will stick around long enough to enjoy them"
 1	"Even though English completely changed Luce's intent from savage satire to 'celebrating women,' and it's far too long, it has a terrific performance by Mendes and some funny lines."
-0	"No cliché, no matter how it screams and pleads for mercy, makes it out of this baby untapped."
+0	"No cliche, no matter how it screams and pleads for mercy, makes it out of this baby untapped."
 0	"An ensemble this good guarantees some lively moments, but the film's outdated message seems more empowering for men."
 1	"Soft-focus but high-gloss, substituting empowerment for devotion. It is entertaining but it has a bitter aftertaste."
 0	English goes more for sympathy and episodic comedy than substance. Luce wrote her play as a scathing commentary on a social milieu she hated. The Women tries to have it both ways and becomes more caricatured than dimensional.
@@ -9000,7 +9000,7 @@ Rating	Review
 1	This is swooning male anti-hero worship.
 1	America's love affair with gangsters and gangster movies started when such writers as 1920s Chicago crime reporter Ben Hecht and novelist W.R. Burnett went West to forge the myth of a new American criminal in the smithy of Hollywood's Dream Machine.
 1	
-1	This romance is a real romance; these clichés are good clichés. The result is a conflicting and haunting experience.
+1	This romance is a real romance; these cliches are good cliches. The result is a conflicting and haunting experience.
 0	"It's flat and direct, and when a line or two slips out that sounds like it wants to elevate Dillinger's life into a grand theme, it's quickly hammered down."
 1	Public Enemies is a delicious feast for an interpretive viewer.
 0	Our connections with Public Enemies remain abstract. The darkness and the distance kill the fun.
@@ -9492,7 +9492,7 @@ Rating	Review
 1	
 1	"Ultimately, Surrogates isn't going to break any records, but it's the kind of movie I'd stop at while channel surfing and watch the whole thing on a Saturday afternoon."
 0	"Sleek and shiny but ultimately lifeless, an interesting premise becomes terribly humdrum in this sci-fi thriller. There's nothing to offend, but little of note either."
-0	"Somewhere in the super-boring part, they add a cliché twist to the already cliché plot, and if you give it even a tiny bit of thought, an ending you can spot within the first 15 minutes. I walked out entirely disappointed."
+0	"Somewhere in the super-boring part, they add a cliche twist to the already cliche plot, and if you give it even a tiny bit of thought, an ending you can spot within the first 15 minutes. I walked out entirely disappointed."
 0	Requires the letting go of logic and a certain surrendering to the wonder of technological potential in the world.
 0	the entire enterprise has fallen short of its muddled ambitions.
 0	Add watching The Promotion to the Geneva Conventions' list of humanitarian abuses.
@@ -9880,7 +9880,7 @@ Rating	Review
 0	"Igor's leaden plotting, miscast voiceovers and tasteless one-liners are likely to leave every member of the family wishing this creation had never been born."
 1	"You do feel that, with it's knowing one-liners and classic movie references, Igor is trying terribly hard to amuse an adult audience, possibly at the expense of children it should be entertaining."
 1	"This film is outclassed by the Pixar stable, but it's entertaining stuff for the children."
-1	"It's spirited and funny in its better moments, and gives a sly spin to the clichés rather than just parroting them wholesale."
+1	"It's spirited and funny in its better moments, and gives a sly spin to the cliches rather than just parroting them wholesale."
 1	"Igor is a bit of a Franken-toon itself, stitching grown-up gags to a Disneyfied storyline (beauty is on the inside; don't step on others to get ahead; yada yada yada) while lurching wildly from one age group to the other."
 0	"It's fatally split between catering for children who won't understand most of the references, and adults who will find it garish and relentlessly noisy."
 0	"More well-aimed wit was needed, less grapeshot wackiness."
@@ -9895,7 +9895,7 @@ Rating	Review
 1	I look forward to making it part of my regular Halloween movie viewing for many years to come.
 0	"I just didn't think there were anywhere close to enough laughs in this movie and that ultimately, as a comedy, is what it's got to deliver."
 0	It is not visually stimulating.
-1	"Itâ(TM)s a strange, dark little film with suicidal rabbits and brains in jars, stunted heroes and Frankenstein-like objects of love."
+1	"Ita(TM)s a strange, dark little film with suicidal rabbits and brains in jars, stunted heroes and Frankenstein-like objects of love."
 1	"With a curly twist on the mad scientist concept, this subversively inventive animation bubbles over with originality and amusing dialogue."
 0	"Igor sends up all sorts of cliches, but -- by degenerating into a mawkish romance and a boring race against time -- it also becomes one."
 1	"If you are the type that wishes filmmaker Tim Burton still put his name to funky animated monstrosities like The Nightmare Before Christmas, then Igor will fit the bill just nicely."
